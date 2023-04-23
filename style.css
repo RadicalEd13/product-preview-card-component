@@ -17,6 +17,8 @@ body {
 .parfume-card {
     width:343px;
     background-color: hsla(0, 0%, 100%, 1);
+    border-radius: 10px;
+    overflow: hidden;
 
 
 
