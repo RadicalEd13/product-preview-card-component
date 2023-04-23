@@ -7,4 +7,9 @@
 body {
     height: 100hv;
     background-color:hsla(28, 38%, 92%, 1);
+    font-family: 'Montserrat','Fraunces',sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
