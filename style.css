@@ -43,6 +43,42 @@ h3 {
     line-height: 14.63px;
     letter-spacing: 5px;
     color:hsla(228, 12%, 48%, 1);
+    margin-top: 24px;
+    margin-bottom:12px;
 }
 
+h1 {
+    font-family: 'Fraunces',sans-serif;
+    font-style: bold;
+    font-size: 32px;
+    line-height: 32px;
+    color: #1C232B;
+    margin-bottom: 16px;
+}
+
+p {
+    font-family: 'Montserrat',sans-serif;
+    font-style:Medium;
+    font-size: 14px;
+    line-height: 23px;
+    color: #6C7289;
+    margin-bottom: 24px;
+}
+
+h2 {
+    font-family: 'Fraunces',sans-serif;
+    font-size:32px;
+    line-height: 32px;
+    color: #3D8168;
+    margin-right: 19px;
+}
+
+span {
+    font-family: 'Montserrat',sans-serif;
+    font-size:13px;
+    line-height: 23px;
+    color:#6C7289;
+    text-indent: 19px;
+    text-decoration: line-through;
+}
 /* Typography end */
