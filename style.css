@@ -99,7 +99,7 @@ span {
 
 button {
     border-radius: 8px;
-    background-color: #3D8168;
+    background: #3D8168;
     width: 100%;
     border: none;
     height: 48px;
@@ -141,6 +141,11 @@ button {
 
   button {
     margin-top: 30px;
-    margin-bottom: 0;
+    margin-bottom: 0;    
+  }
+
+  button :hover {
+    cursor: pointer;
+    background: hsla(157, 43%, 18%, 1);
   }
 }
