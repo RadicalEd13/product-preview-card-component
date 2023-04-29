@@ -141,11 +141,11 @@ button {
 
   button {
     margin-top: 30px;
-    margin-bottom: 0;    
+    margin-bottom: 0;   
+    cursor: pointer; 
   }
 
-  button :hover {
-    cursor: pointer;
-    background: hsla(157, 43%, 18%, 1);
+  button:hover { 
+    background-color: hsla(157, 43%, 18%, 1);
   }
 }
